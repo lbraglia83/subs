@@ -1,4 +1,4 @@
-# AV YouTube subs (IT)
+# YouTube subs (IT)
 
 ## Progetti attivi
 
